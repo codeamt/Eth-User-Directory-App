@@ -22,7 +22,7 @@
 - TRUFFLE verson 4.1.5
 - Metamask browser extention
 
-<b>Live demo hosted on Heroku:</b> (https://user-directory-app.heroku.com)[https://user-directory-app.herokuapp.com/]
+<b>Live demo hosted on Heroku:</b> https://user-directory-app.herokuapp.com/
 
 
 
